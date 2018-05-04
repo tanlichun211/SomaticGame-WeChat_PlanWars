@@ -7,5 +7,6 @@ Video demo address  ：  http://www.iqiyi.com/w_19rvcvixvl.html
 visual studio 2013 、  cocos2dx-x-2.26  、  Kinect V2 SDK  
 
 ## Graph
+![image](https://github.com/tanlichun211/SomaticGame-WeChat_PlanWars/blob/master/Resources/show.gif)   
 ![Image Text](https://github.com/tanlichun211/SomaticGame-WeChat_PlanWars/blob/master/Resources/shoot_background/gameover.png
 )
